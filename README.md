@@ -1,2 +1,2 @@
-# .github.io
+# сайт ушастых
 hello brother
